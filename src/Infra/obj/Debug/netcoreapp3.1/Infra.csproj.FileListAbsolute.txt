@@ -1,0 +1,9 @@
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netcoreapp3.1/Infra.deps.json
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netcoreapp3.1/Infra.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netcoreapp3.1/Infra.pdb
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.csprojAssemblyReference.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.AssemblyInfoInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.AssemblyInfo.cs
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.csproj.CoreCompileInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netcoreapp3.1/Infra.pdb

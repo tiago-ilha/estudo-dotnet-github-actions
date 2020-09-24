@@ -1,0 +1,9 @@
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netstandard2.0/Infra.deps.json
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netstandard2.0/Infra.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/bin/Debug/netstandard2.0/Infra.pdb
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.csprojAssemblyReference.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.AssemblyInfoInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.AssemblyInfo.cs
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.csproj.CoreCompileInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Infra/obj/Debug/netstandard2.0/Infra.pdb

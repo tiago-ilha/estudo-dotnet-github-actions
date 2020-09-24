@@ -1,0 +1,9 @@
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/bin/Debug/netcoreapp3.1/Dominio.deps.json
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/bin/Debug/netcoreapp3.1/Dominio.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/bin/Debug/netcoreapp3.1/Dominio.pdb
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.csprojAssemblyReference.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfoInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.AssemblyInfo.cs
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.csproj.CoreCompileInputs.cache
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.dll
+/Users/howework/dev/estudos/teste-dotnet/src/Dominio/obj/Debug/netcoreapp3.1/Dominio.pdb
