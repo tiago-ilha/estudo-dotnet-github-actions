@@ -31,7 +31,7 @@ jobs:
     - name: Publish Artifact
       run: dotnet publish -c Release -o WebApp 
     
-      - name: Test
+    - name: Test
       run: dotnet test --no-restore --verbosity normal
     
     - name: Publish Artifact
